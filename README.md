@@ -29,5 +29,4 @@ MSc Cybersecurity graduate (National College of Ireland) with close to two years
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoftazure&logoColor=white)
 
-**Certifications:** Microsoft SC-200 (Security Operations Analyst Associate) — In Progress 
-Cisco Networking Academy: Introduction to Cybersecurity, Endpoint Security, Network Defense, Networking Basics
+**Certifications:** Microsoft SC-200 (Security Operations Analyst Associate) — In Progress || Cisco Networking Academy: Introduction to Cybersecurity, Endpoint Security, Network Defense, Networking Basics
