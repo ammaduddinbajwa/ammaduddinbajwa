@@ -17,6 +17,8 @@ MSc Cybersecurity graduate (National College of Ireland) with close to two years
 
 **[Malicious URL Detection using Machine Learning](https://github.com/ammaduddinbajwa/Malicious-URL-Detection-ML)** — Benchmarked Random Forest, LightGBM and XGBoost on 650K+ URLs to classify phishing/malware/defacement links; best model reached 96.6% accuracy.
 
+**[Secure WordPress Deployment on AWS EC2](https://github.com/ammaduddinbajwa/Secure-WordPress-AWS-EC2)** — Deployed and hardened a LAMP/WordPress stack on EC2 (SSL, login/firewall hardening, CloudWatch monitoring); validated with Nmap and Nessus, finding and remediating a high-severity vulnerability.
+
 ---
 
 #### 🧰 Tools & Technologies
@@ -29,4 +31,4 @@ MSc Cybersecurity graduate (National College of Ireland) with close to two years
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoftazure&logoColor=white)
 
-**Certifications:** Microsoft SC-200 (Security Operations Analyst Associate) — In Progress || Cisco Networking Academy: Introduction to Cybersecurity, Endpoint Security, Network Defense, Networking Basics
+**Certifications:** Microsoft SC-200 (Security Operations Analyst Associate) — In Progress · Cisco Networking Academy: Introduction to Cybersecurity, Endpoint Security, Network Defense, Networking Basics
