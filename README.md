@@ -2,7 +2,7 @@
 
 **SOC Analyst | Incident Response | Cybersecurity Operations**
 
-MSc Cybersecurity graduate (National College of Ireland) with close to two years of hands-on SOC Analyst experience in a 24/7 security operations centre — triaging alerts, investigating incidents and writing detections. Currently based in Dublin, Ireland, working in security operations and studying toward Microsoft SC-200, while looking for SOC / Incident Response / Cloud Security roles.
+MSc Cybersecurity graduate (National College of Ireland) with close to two years of hands-on SOC Analyst experience in a 24/7 security operations centre — triaging alerts, investigating incidents and writing detections. Currently based in Dublin, Ireland, working as a Security Officer in a control-room environment and seeking L1 SOC / Junior Information Security Analyst roles. Microsoft Certified: Security Operations Analyst Associate (SC-200).
 
 - 🔭 Currently building: adaptive zero-trust resilience research for cloud-native 5G/6G networks, extending my MSc thesis testbed
 - 🛡️ SOC background: Splunk SIEM, EDR, alert triage & escalation, MITRE ATT&CK-mapped runbooks
@@ -31,4 +31,4 @@ MSc Cybersecurity graduate (National College of Ireland) with close to two years
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoftazure&logoColor=white)
 
-**Certifications:** Microsoft SC-200 (Security Operations Analyst Associate) — In Progress · Cisco Networking Academy: Introduction to Cybersecurity, Endpoint Security, Network Defense, Networking Basics
+**Certifications:** Microsoft Certified: Security Operations Analyst Associate (SC-200) — Issued October 2026 · Cisco Networking Academy: Introduction to Cybersecurity, Endpoint Security, Network Defense, Networking Basics
