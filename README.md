@@ -32,3 +32,7 @@ MSc Cybersecurity graduate (National College of Ireland) with close to two years
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoftazure&logoColor=white)
 
 **Certifications:** Microsoft Certified: Security Operations Analyst Associate (SC-200) — Issued October 2026 · Cisco Networking Academy: Introduction to Cybersecurity, Endpoint Security, Network Defense, Networking Basics
+
+**Additional coursework (November 2026):**
+- IBM — [Generative AI: Boost Your Cybersecurity Career](https://www.coursera.org/account/accomplishments/records/VYVJ1N7X9MF3)
+- Packt — [Identity and Access Management (IAM)](https://www.coursera.org/account/accomplishments/records/BHQNAHT89KPP)
